@@ -1,0 +1,18 @@
+FROM microsoft/dotnet:2.2-sdk
+WORKDIR /app
+
+# Copy csproj and restore as distinct layers
+COPY *.csproj ./
+RUN dotnet restore
+
+EXPOSE 5001
+# Copy everything else and build
+COPY . ./
+RUN dotnet publish -c Release -o out
+ENTRYPOINT ["dotnet", "out/IdentityApi.dll"]
+
+# Build runtime image
+#FROM microsoft/dotnet:aspnetcore-runtime
+#WORKDIR /app
+#COPY --from=build-env /app/out .
+#ENTRYPOINT ["dotnet", "IdentityApi.dll"]

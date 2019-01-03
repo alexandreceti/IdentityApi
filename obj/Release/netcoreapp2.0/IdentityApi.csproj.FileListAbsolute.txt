@@ -1,0 +1,11 @@
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/bin/Release/netcoreapp2.0/IdentityApi.deps.json
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/bin/Release/netcoreapp2.0/IdentityApi.runtimeconfig.json
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/bin/Release/netcoreapp2.0/IdentityApi.runtimeconfig.dev.json
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/bin/Release/netcoreapp2.0/IdentityApi.dll
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/bin/Release/netcoreapp2.0/IdentityApi.pdb
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.csprojAssemblyReference.cache
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.csproj.CoreCompileInputs.cache
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.AssemblyInfoInputs.cache
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.AssemblyInfo.cs
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.dll
+/Users/alexandre/Workspace/pucminas/ArqNuvens/TrabalhoFinalArquiteturaNuvens/IdentityApi/obj/Release/netcoreapp2.0/IdentityApi.pdb

@@ -1,0 +1,11 @@
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.csprojAssemblyReference.cache
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.csproj.CoreCompileInputs.cache
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.AssemblyInfoInputs.cache
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.AssemblyInfo.cs
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.deps.json
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.runtimeconfig.json
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.runtimeconfig.dev.json
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.dll
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.pdb
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.dll
+C:\Git\TrabalhoFinalArquiteturaNuvens\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.pdb
